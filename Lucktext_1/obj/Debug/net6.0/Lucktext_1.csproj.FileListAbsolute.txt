@@ -1,0 +1,15 @@
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\bin\Debug\net6.0\Lucktext_1.exe
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\bin\Debug\net6.0\Lucktext_1.deps.json
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\bin\Debug\net6.0\Lucktext_1.runtimeconfig.json
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\bin\Debug\net6.0\Lucktext_1.dll
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\bin\Debug\net6.0\Lucktext_1.pdb
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\obj\Debug\net6.0\Lucktext_1.csproj.AssemblyReference.cache
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\obj\Debug\net6.0\Lucktext_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\obj\Debug\net6.0\Lucktext_1.AssemblyInfoInputs.cache
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\obj\Debug\net6.0\Lucktext_1.AssemblyInfo.cs
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\obj\Debug\net6.0\Lucktext_1.csproj.CoreCompileInputs.cache
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\obj\Debug\net6.0\Lucktext_1.dll
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\obj\Debug\net6.0\refint\Lucktext_1.dll
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\obj\Debug\net6.0\Lucktext_1.pdb
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\obj\Debug\net6.0\Lucktext_1.genruntimeconfig.cache
+C:\Users\Leo.Kujala\Desktop\Skola\KOD\Lucktext_1\Lucktext_1\obj\Debug\net6.0\ref\Lucktext_1.dll
