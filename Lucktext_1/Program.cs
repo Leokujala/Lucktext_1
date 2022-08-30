@@ -19,3 +19,6 @@ Console.WriteLine ($"Man kan säga detsamma om hur mycket {drink} du häller i d
 
 
 Console.ReadLine();
+Console.WriteLine ("Hejdå bby");
+
+Console.ReadLine();
